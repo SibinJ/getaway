@@ -1,0 +1,69 @@
+{"museums":
+    [   
+    
+    {
+    "name":"Janapada Loka / Folk Art Museum ",
+    "distance":"52km",
+    "description":"Numerous collections of masks, artifacts, costumes, collection of folk music and videos of folk dances are exhibited in the museum. Spread over 15 acres, the artifacts in the museum are kept in three buildings namely Lokamahal, Lokamatha Mandira and Chitrakuteera."
+    
+       },
+      {
+      "name":"Government Museum",
+      "distance":"",
+      "description":"Government Museum has a rare collection of archaeological and geological artifacts including old jewellery, sculpture, coins and inscriptions. The museum is also home to the Halmidi inscription, the earliest Kannada inscription ever found (450 AD)."
+      }
+      ,
+      {
+      "name":"Kempegowda Museum",
+      "distance":"",
+      "description":"Kempegowda Museum is dedicated to Yelahanka chieftain Kempegowda (1513-1569) who is the founder of Bangalore city. The museum has Kempegowda's statue as well as posters and pictures of forts, temples, reservoirs and inscriptions from his time."
+      }
+      ,
+      {
+      "name":"Visvesvaraya Industrial and Technological Museum",
+      "distance":"",
+      "description":"Visvesvaraya Industrial and Technological Museum was instituted as part of the centenary celebrations of the engineer-statesman Sir M. Visvesvaraya (1861–1962). Artifacts related to Engines, transportation, telecommunication, aviation, rockets, computational device."
+      }
+      ,
+      {
+      "name":"HAL Heritage and Aerospace Museum",
+      "distance":"",
+      "description":"HAL Heritage and Aerospace Museum showcases the growth of the Indian aviation industry and HAL for six decades. The Museum is maintained by HAL (one of Asia's largest Aerospace companies). Showcases of Indian aviation industry & HAL. Aircraft, helicopters, engine models, Flight simulators, a mock Air Traffic Control Tower."
+      }
+      ,
+      {
+      "name":"Gandhi Bhavan",
+      "distance":"",
+      "description":"The Museum at Kumarapark is showcase of Mahatma Gandhi's life. It houses a photo gallery, his letters, a library and audio visuals."
+      },
+      {
+      "name":"Madras Sappers Museum & Archives",
+      "distance":"",
+      "description":"The museum showcases the history of the Madras Engineer Group (called the Sappers, established in 1803). The Madras Sappers are the oldest regiment of the Corps of Engineers of the Indian Army. The museum chronicles their history and achievements and houses armoury used by the regiment, medals, their attire and a sports gallery. This museum can be accessed with special permission from the Army."
+      }
+      ,
+      {
+      "name":"NIMHANS Brain Museum",
+      "distance":"",
+      "description":The museum showcases the human brain and its functions. It is located at National Institute of Mental Health and Neurosciences (NIMHANS).[10] The Museum seeks to help visitors see the brain, understand how it works and get an insight into the kind of diseases that can affect it. The museum has a diverse collection of over 600 brain samples and is the result of over 30 years of research."
+      }
+      ,
+      {
+      "name":"Law Museum",
+      "distance":"",
+      "description":"Museum is dedicated to the legal profession. It was the brainchild of Karnataka High Court Chief justice Cyriac Joseph. The museum houses an original print of the Constitution of India, articles and documents related to the legal profession, seals, insignia and books. It also showcases the history of the High Court and the development of courts over the ages."
+      }
+      ,
+      {
+      "name":"Philatelic Museum",
+      "distance":"",
+      "description":"Philatelic Museum is located at the first floor of the Bangalore General Post Office near Vidhana Soudha. It showcases numerous stamps from various time periods."
+      }
+      ,
+      {
+      "name":"Legends Motorcycle Museum",
+      "distance":"",
+      "description":"The Museum is a collection of 20 plus vintage motorcycles in working condition whose vintage dates back to 1924. The Museum is the lifelong collection of motorcycle enthusiast SK Prabhu. The museum walls are covered with biker memorabilia and photographs."
+      }
+    ]
+}
