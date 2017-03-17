@@ -21,11 +21,7 @@
 	"distance":"100km",
 	"description":"Kotilingeshwara, meaning 10 million lingas, is one of the famous pilgrimage sites around Bangalore with great religious significance. This temple is famous for huge 108 feet Shivalinga, which is one of the largest in the world and 35 feet tall Nandi in front of it. There are lakhs of shivalingas all over the temple."
 	},
-	{
-	"name":"Lepakshi",
-	"distance":"124kms",
-	"description":"Lepakshi was founded in the 16th century during the reign of the Vijayanagara king, Aliiya Rama Raya. Virupanna, the royal treasurer was accused of drawing funds without the king's permission from the state treasury to build the Veerabhadra temple at Lepakshi. However, he blinded himself to avoid the king's punishment. Even today one can see two dark stains upon the wall near the Kalyana Mandapa, which are said to be the marks made by his eyes."
-	},
+
 	{
 	"name":"Srirangapatna",
 	"distance":"124kms",
@@ -50,11 +46,6 @@
 	"name":"Kanipakam",
 	"distance":"181kms",
 	"description":"This village lies close to Karnataka & Tamil Nadu border on the banks of Bahuda River. The temple was constructed in the 11th century by Chola king Kulothunga Chola I and was expanded further in 1336 by Vijayanagara Kings."
-	},
-	{
-	"name":"Biligiri Ranga Hills",
-	"distance":"185kms",
-	"description":"BR Hills is famous for BRT Wildlife Sanctuary (Biligiri Rangaswamy Temple Wildlife Sanctuary). The sanctuary is situated at an altitude of 5091 feet and is spread across an area of 540 km. It was declared a tiger reserve in 2010 by the Karnataka State Government. The highest peak within the sanctuary is the Kattari Betta."
 	}
 	]
 }
