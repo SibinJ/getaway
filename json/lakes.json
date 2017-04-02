@@ -2,9 +2,32 @@
 	[	
 	
 	{
-	"name":"Bheemeshwari",
-	"distance":"100 km",
+	"name":"Bheemeshwari Lake",
 	"description":"Bheemeshwari is a great spot for eco-tourism and is a natural habitat for the Mahseer fish found in the waters of the Cauvery River. Mahseer is considered as one of the finest game fish in the world. A number of fishing camps have been developed here where professional and amateur anglers can catch mahseer."
+	},
+	{
+	"name":"Thattekere Lake",
+	"description":"Located in the midst of an Elephant corridor,Thattekere Lake is also a haven for bird watchers and one of themore quaint places to visit in Banglore.The serene waters of the lake attracts hundreds of birds especially at the dawn."
+	},
+	{
+	"name":"Kaikondrahalli Lake",
+	"description":"Loacted in Kaikondrahalli village facing the main Sarjapur road,the Kaikodrahalli lake is one of the enviable sucesss stories for the struggling lot of lakes in bangalore.It's a popular point of reference by environmentalists and lake restortion activits,a place for calm and relaxation for Bellandur inhabitants and a hot spot for photo and nature walks."
+	},
+	{
+	"name":"Bellandur Lake",
+	"description":"Bellandur Lake is a lake in the surub of Bellandur in the southeast of the city of Bangalore and is the biggest lake in the city.The lake is a receptor from three chains of lakes upstream,and has a catchment area of about 148square kilometers."
+	},
+	{
+	"name":"Ulsoor Lake",
+	"description":"Ulsoor,also known as Halasuru ,is among the oldest villages int city of Bangalore and houses the Ulsoor lake,which is considers one of the biggest lakes in the city.The lake is marked with several beautiful islands and ancient temples,making it an intersting loaction for tourists.One of the major activities for tourists here is boating. "
+	},
+	{
+	"name":"Sankey tank",
+	"description":"Sankey tank, a manmade lake or tank, is situated in the western part of Bangalore in the middle of the suburbs of Malleshwaram, Vyalikaval and Sadashiva Nagar. The lake covers an area of about 15 ha (37.1 acres). At its widest, the tank has a width of 800 m.Sankey tank was constructed to meet the water supply demands of Bangalore.The tank was also known as Gandhadhakotikere, as the Government Sandalwood Depot used to be located near the lake."
+	},
+	{
+	"name":"Sangama and Mekedatu",
+	"description":"At a distance of 93 Kms from Bangalore (via Kanakapura), 107 Kms from Mysore, Sangama and Mekedatu are two lovely places situated nearby. This is one of the famous weekend getaways from Bangalore. Sangama is the place where Arakavathi river merges with River Kaveri. From this point, about 3.5 kilometers downstream, Mekedatu is a place where river Kaveri flows through a deep and narrow gorge."
 	}
 	]
 }
